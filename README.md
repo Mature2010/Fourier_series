@@ -2,10 +2,10 @@
 Un programa en ruby para obtener el coeficiente de fourier a partir de una función.
 
 ## Comentario personal
-Antes que nada una disculpa pro el código tan complejo ya que la guia de estilos de ruby va totalmente en contra de lo que hice pero funciona ¯\_(ツ)_/¯ este fue el primer programa que hice en ruby por lo que estaba aprendiendo.
+Antes que nada una disculpa por el código tan mal estructurado ya que la guia de estilos de ruby va totalmente en contra de lo que hice, pero el programa funciona ¯\_(ツ)_/¯ este fue el primer programa que hice en ruby por lo que estaba aprendiendo.
 
 ## Como usarlo
-Para usarlo es necesario tener instalado ruby.
+Para usarlo primero es necesario tener instalado ruby.
 
 Es necesario tener una función de la siguiente forma.
 ![Función para serie de fourier](https://github.com/Mature2010/Foutier_series/blob/master/funcion_fourier.png)
